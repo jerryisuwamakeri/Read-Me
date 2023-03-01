@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm Makeri Jerry Isuwa</h1>
 <h3 align="center">A passionate Software Developer from Kaduna State, Nigeria.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerryisuwamakeri" alt="jerryisuwamakeri" /></a> </p>
@@ -16,7 +17,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/jerryisuwamakeri](https://linkedin.com/in/jerryisuwamakeri)
 
-- ⚡ Fun fact: **Look in the Mirror, you will find out!**
+- ⚡ Fun fact **Look in the Mirror, you will find out!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,5 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jerryisuwamakeri&show_icons=true&locale=en&layout=compact" alt="jerryisuwamakeri" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerryisuwamakeri&show_icons=true&locale=en" alt="jerryisuwamakeri" /></p>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerryisuwamakeri&show_icons=true&theme=synthwave&locale=en" alt="jerryisuwamakeri" /></p>
