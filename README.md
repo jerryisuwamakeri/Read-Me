@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://linkedin.com/in/jerryisuwamakeri](https://linkedin.com/in/jerryisuwamakeri)
 
-- ⚡ Fun fact **The World is better with C Programming, Irene and HIP-HOP!**
+- ⚡ Fun fact: **The World is better with C Programming, Irene and HIP-HOP!**
 
 <h3 align="left">Connect with me Via Socials:</h3>
 <p align="left">
