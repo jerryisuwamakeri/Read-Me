@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Full Stack Programming, Data Science, Algorithms and Hacking**
 
-- 📫 How to reach me **hi@makeriweblinks.com.ng**
+- 📫 How to reach me **hello@makeriweblinks.com.ng**
 
 - 📄 Know about my experiences [https://linkedin.com/in/jerryisuwamakeri](https://linkedin.com/in/jerryisuwamakeri)
 
