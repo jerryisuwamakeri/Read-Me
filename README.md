@@ -8,17 +8,17 @@
 
 - 🔭 I’m currently working on [Project X](#)
 
-- 🌱 I’m currently learning **Machine Learning and Ethical Hacking**
+- 🌱 I’m currently learning **Machine Learning and Agile Frameworks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jerryisuwamakeri](https://github.com/jerryisuwamakeri)
+- 👨‍💻 Few of my projects are available at [https://github.com/jerryisuwamakeri](https://github.com/jerryisuwamakeri)
 
-- 💬 Ask me about **Full Stack Programming, Data Science, Algorithms and Hacking**
+- 💬 Ask me about **Full Stack Programming, Data Science, Algorithms and Cybersecurity**
 
 - 📫 How to reach me **hello@makeriweblinks.com.ng**
 
 - 📄 Know about my experiences [https://linkedin.com/in/jerryisuwamakeri](https://linkedin.com/in/jerryisuwamakeri)
 
-- ⚡ Fun fact: **The World is better with C Programming, Irene and HIP-HOP!**
+- ⚡ Fun fact: **The World is better with C Programming and HIP-HOP!**
 
 <h3 align="left">Connect with me Via Socials:</h3>
 <p align="left">
