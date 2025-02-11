@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Makeri Jerry Isuwa</h1>
 <h3 align="center">A passionate Software Developer from Kaduna State, Nigeria.</h3>
-<h3 align="center">With Over 10 Years of Experience in Active Coding, Working on Frameworks, CMSs Debugging /Penatrations of Servers plus Building Seamless Web and Mobile Applications(Android and iOS)</h3>
+<h3 align="center">With Over 5Y ears of Experience in Active Coding, Working on Frameworks, CMSs Debugging /Penatrations of Servers plus Building Seamless Web and Mobile Applications(Android and iOS)</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jerryisuwamakeri" alt="jerryisuwamakeri" /></a> </p>
 
